@@ -1,7 +1,10 @@
 source "https://rubygems.org"
 
 # Jekyll 3.8.5
-gem "jekyll", "3.8.5"
+#gem "jekyll", "3.8.5"
+
+# Jekyll Master Branch
+gem "jekyll", github: "jekyll/jekyll"
 
 # Plugins
 group :jekyll_plugins do

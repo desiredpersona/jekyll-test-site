@@ -7,5 +7,5 @@ _drafts
 *.gem
 .vscode
 node_modules
-.jekyll-cache
+.jekyll-cache 
 .sass-cache
