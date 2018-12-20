@@ -12,6 +12,7 @@ gem "liquid-c"
 # Plugins
 group :jekyll_plugins do
   gem "jekyll-archives"
+  gem "jekyll-commonmark"
   gem "jekyll-feed"
   gem "jekyll-remote-theme"
   gem "jekyll-seo-tag"

@@ -20,11 +20,10 @@ port        : 4000
 remote_theme: desiredpersona/minimal-jekyll-theme
 permalink   : /:title/
 
-markdown: kramdown
-kramdown:
-  input: GFM
-  hard_wrap: false
-  syntax_highlighter: rouge
+markdown: CommonMark
+commonmark:
+  options: ["SMART", "FOOTNOTES"]
+  extensions: ["strikethrough", "autolink", "table"]
 
 # Debug Liquid
 #liquid:
@@ -57,6 +56,7 @@ google_tag_manager: GTM-XXXXXXX
 ################################
 plugins:
   - jekyll-archives
+  - jekyll-commonmark
   - jekyll-feed
   - jekyll-remote-theme
   - jekyll-seo-tag
