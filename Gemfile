@@ -6,6 +6,9 @@ source "https://rubygems.org"
 # Jekyll Master Branch
 gem "jekyll", github: "jekyll/jekyll"
 
+# Liquid-C
+gem "liquid-c"
+
 # Plugins
 group :jekyll_plugins do
   gem "jekyll-archives"
