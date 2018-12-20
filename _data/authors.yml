@@ -1,0 +1,41 @@
+# Authors
+
+Desired Persona:
+  name          : "Desired Persona"
+  url           : "https://desiredpersona.com/about/"
+  email         : "hello@desiredpersona.com"
+  bio           : "Marketer. Media buyer. Developer."
+  post_meta_bio : "Marketer. Media buyer. Developer. Sometimes I write really long technical articles"
+  picture       : "/assets/images/author.jpg"
+  cta           : "Follow"
+  cta_url       : "https://twitter.com/desiredpersona"
+  twitter       : "desiredpersona"
+  google_plus   : "DesiredPersona"
+  facebook      : "desiredpersona"
+
+Joe Bloggs:
+  name          : "Joe Bloggs"
+  url           : "https://desiredpersona.com/about/"
+  email         : "hello@joe-bloggs-1234.com"
+  bio           : "Sometimes I write long posts about web design"
+  post_meta_bio : "Sometimes I write long posts about web design"
+  picture       : "/assets/images/author-2.png"
+  cta           : "Follow"
+  cta_url       : "https://twitter.com/twitter"
+  twitter       : "twitter"
+  google_plus   : "googleplus"
+  facebook      : "facebook"
+
+
+desired persona:
+  name          : "Colin"
+  url           : "https://desiredpersona.com/about/"
+  email         : "hello@desiredpersona.com"
+  bio           : "Marketer. Developer. Illustrator. Sometimes I write long posts"
+  post_meta_bio : "Marketer. Developer. Illustrator."
+  picture       : "/assets/images/author.jpg"
+  cta           : "Follow"
+  cta_url       : "https://twitter.com/desiredpersona"
+  twitter       : "desiredpersona"
+  google_plus   : "DesiredPersona"
+  facebook      : "desiredpersona"

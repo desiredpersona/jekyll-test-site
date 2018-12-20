@@ -1,0 +1,104 @@
+################################
+# Site Settings
+################################
+lang        : "en"
+logo        :
+title       : "Jekyll Test Site"
+description : "A Jekyll test website with lots of posts"
+author      : "Desired Persona"
+email       : "hello@example..com"
+newsletter  : "http://example.com/about"
+baseurl     : "" # the subpath of your site, e.g. /blog
+url         : "https://example.com"
+date_format : "%-d %B %Y"
+port        : 4000
+
+
+################################
+# Theme Settings
+################################
+remote_theme: desiredpersona/minimal-jekyll-theme
+permalink   : /:title/
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+
+# Debug Liquid
+#liquid:
+#  error_mode:       warn
+#  strict_filters:   true
+#  strict_variables: true
+
+sass:
+    sass_dir: _sass
+    style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
+# Include/Exclude filetypes
+include:
+  - _pages
+
+exclude:
+  - Gemfile.lock
+  - node_modules
+  
+
+################################
+# Analytics Settings
+################################
+google_analytics:
+google_tag_manager: GTM-XXXXXXX
+
+
+################################
+# Jekyll Plugins
+################################
+plugins:
+  - jekyll-archives
+  - jekyll-feed
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+
+# Jekyll SEO Tag Settings https://github.com/jekyll/jekyll-seo-tag
+disable_title_output: true # Removes "| site title" from page <title> tag.
+
+social:
+  name: desired persona
+  links:
+    - https://twitter.com/desiredpersona
+    - https://plus.google.com/+DesiredPersona
+
+twitter:
+  username: desiredpersona
+
+webmaster_verifications:
+  google: XX1234567891011121314
+  bing: XX1234567891011121314
+  alexa:
+  yandex:
+
+
+# Jekyll Feed Settings https://github.com/jekyll/jekyll-feed
+atom_feed:
+    path: # Leave blank to use default (feed.xml)
+
+
+# Jekyll Archives Settings https://github.com/jekyll/jekyll-archives
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+    - year
+    - month
+    - day
+  layout: 'archive'
+  permalinks:
+    year: '/:year/'
+    month: '/:year/:month/'
+    day: '/:year/:month/:day/'
+    tag: '/tag/:name/'
+    category: '/category/:name/'

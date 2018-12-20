@@ -1,0 +1,15 @@
+{
+  "name": "jekyll-test-site",
+  "version": "1.0.0",
+  "license": "MIT",
+  "description": "A website for testing Jekyll",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/desiredpersona/jekyll-test-site.git"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-purgecss": "^0.20.0"
+  }
+}
