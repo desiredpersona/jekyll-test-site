@@ -47,7 +47,6 @@ exclude:
 ################################
 # Analytics Settings
 ################################
-google_analytics:
 google_tag_manager: GTM-XXXXXXX
 
 
