@@ -2,12 +2,12 @@
 layout:   post
 title:    Post with hero image
 subtitle: Adding subtitles couldn't be easier
+description: "Showing off the themes hero images"
 date:     2018-12-19 01:02:07 +0100
 author: Joe Bloggs
 header:
     layout: hero
     vh: vh-50 vh-75-m vh-100-l
-    navigation: fancy
     image: /assets/images/full-moon-night.jpg
     caption: "[Nathan Anderson](https://unsplash.com/@nathananderson)"
 
@@ -23,7 +23,6 @@ To add a hero image to any blog post header, simply add the following in that po
 header:
     layout: hero # Choose hero or header
     vh: vh-50 vh-75-m vh-100-l  # Set a custom vertical height for mobile/tablet/desktop.
-    navigation: fancy # Choose your navigation. Leave blank for white background nav.
     image: /assets/images/stars-large.jpg # Set a background image.
     caption: "Photo credit: [Unsplash](https://unsplash.com)" # Create captions with support for markdown urls.
 ```

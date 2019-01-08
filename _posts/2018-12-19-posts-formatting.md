@@ -1,12 +1,12 @@
 ---
-layout:     post
-title:      Post formatting looks pretty damn amazing
-subtitle:   Subtitles are optional and look just as good
-date:       2018-12-19 08:20:50 +0100
+layout:      post
+title:       Post formatting looks pretty damn amazing
+subtitle:    Subtitles are optional and look just as good
+description: "Showing off the themes post formatting"
+date:        2018-12-19 08:20:50 +0100
 author: desired persona
 header:
     layout: header
-    navigation: fancy
     image: /assets/images/mountains-large.jpg
     caption: "[Unsplash](https://unsplash.com)"
 

@@ -5,7 +5,6 @@ description: A Jekyll site with lots of posts
 subtitle: Introducing Forestry a CMS for static website. 
 header:
     layout: hero
-    navigation: fancy
     image: "/assets/images/macbook.jpg"
     class: bg-darken-50 bg-darken-25-l
     cta:
