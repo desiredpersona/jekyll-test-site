@@ -20,6 +20,28 @@ port        : 4000
 remote_theme: desiredpersona/minimal-jekyll-theme
 permalink   : /:title/
 
+# Navigation Menus
+header_navigation:
+  - title: Home
+    url: /
+    
+  - title: About
+    url: /about/
+
+  - title: Blog
+    url: /blog/
+
+  - title: Themes
+    url: https://desiredpersona.com/themes/
+
+footer_navigation:
+  - title: Contact
+    url: /contact/
+
+  - title: privacy
+    url: /privacy/
+
+# Markdown Settings
 markdown: CommonMark
 commonmark:
   options: ["SMART", "FOOTNOTES"]
