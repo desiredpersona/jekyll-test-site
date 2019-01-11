@@ -1,6 +1,7 @@
 ---
 layout:   post
 title:    Post with minimal hero header
+description: Showing off a beautiful hero image in any blog post header is so simply.
 subtitle: Adding subtitles couldn't be easier
 date:     2018-12-18 13:20:50 +0100
 author: Joe Bloggs
@@ -14,7 +15,7 @@ tags:
     - header
 ---
 
-To add a hero image to any blog post header, simply add the following in that posts YAML front-matter.
+Showing off a beautiful hero image with a title and subtitle in any blog post header is a piece of cake. You just need the following in that posts YAML front-matter.
 
 ```yaml
 header:

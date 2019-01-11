@@ -17,7 +17,7 @@ tags:
     - header
 ---
 
-To add a hero image to any blog post header, simply add the following in that posts YAML front-matter.
+How to add a full page hero image in the header of any blog post. It's so simply to try you will wonder why you havn't done so sooner. Add the following in that posts YAML front-matter.
 
 ```yaml
 header:
