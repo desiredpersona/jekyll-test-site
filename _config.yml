@@ -31,6 +31,9 @@ header_navigation:
   - title: Blog
     url: /blog/
 
+  - title: Archives
+    url: /archives/ 
+
   - title: Themes
     url: https://desiredpersona.com/themes/
 
@@ -38,7 +41,7 @@ footer_navigation:
   - title: Contact
     url: /contact/
 
-  - title: privacy
+  - title: Privacy
     url: /privacy/
 
 # UI Default Text
