@@ -3,7 +3,7 @@ layout: post
 title:  A beautiful post about your startup
 subtitle: Adding subtitles is optional and really simple
 date: 2018-11-12 13:20:50 +0100
-author: Desired Persona
+author: desired persona
 categories:
   - post formatting
 tags:

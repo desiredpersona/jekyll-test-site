@@ -4,7 +4,7 @@ title:    Post with hero image
 subtitle: Adding subtitles couldn't be easier
 description: "Showing off the themes hero images"
 date:     2018-12-19 01:02:07 +0100
-author: Joe Bloggs
+author: joe bloggs
 header:
     layout: hero
     vh: vh-50 vh-75-m vh-100-l

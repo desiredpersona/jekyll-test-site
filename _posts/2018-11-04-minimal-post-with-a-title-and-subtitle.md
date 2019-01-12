@@ -3,7 +3,7 @@ layout: post
 title:  Minimal post with title and subtitle
 subtitle: Adding subtitles couldn't be easier
 date:   2018-11-04 13:20:50 +0100
-author: Desired Persona
+author: desired persona
 post_meta: false
 author_bio: false
 share_icons: false

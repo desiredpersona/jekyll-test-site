@@ -2,7 +2,7 @@
 layout: post
 title: Post with post meta above title
 date:   2018-11-19 12:04:50 +0100
-author: Desired Persona
+author: desired persona
 author_bio: false
 share_icons: false
 category_tag_list: false

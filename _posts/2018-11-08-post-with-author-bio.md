@@ -2,7 +2,7 @@
 layout: post
 title: Post with author bio after posts
 date:   2018-11-08 12:04:50 +0100
-author: Desired Persona
+author: desired persona
 author_bio: true
 share_icons: false
 category_tag_list: false

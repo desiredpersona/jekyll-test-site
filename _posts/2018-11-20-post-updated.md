@@ -2,7 +2,7 @@
 layout: post
 title: This post has been updated
 date: 2018-11-20 13:20:50 +0100
-author: Desired Persona
+author: desired persona
 last_modified_at: 2016-09-03 11:14:40 +0100
 categories:
   - minimal

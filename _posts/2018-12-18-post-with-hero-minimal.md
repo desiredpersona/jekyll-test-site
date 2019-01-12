@@ -4,7 +4,7 @@ title:    Post with minimal hero header
 description: Showing off a beautiful hero image in any blog post header is so simply.
 subtitle: Adding subtitles couldn't be easier
 date:     2018-12-18 13:20:50 +0100
-author: Joe Bloggs
+author: joe bloggs
 header:
     layout: hero
     class: bg-green

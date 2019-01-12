@@ -2,7 +2,7 @@
 layout: post
 title:  Post with social share icons
 date:   2018-11-07 12:04:50 +0100
-author: Desired Persona
+author: desired persona
 category_tag_list: false
 categories:
   - social icons

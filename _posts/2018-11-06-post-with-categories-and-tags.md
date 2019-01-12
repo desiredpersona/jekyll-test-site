@@ -2,7 +2,7 @@
 layout: post
 title:  Post with categories and tags
 date:   2018-11-06 12:04:50 +0100
-author: Desired Persona
+author: desired persona
 categories:
   - category
 tags:

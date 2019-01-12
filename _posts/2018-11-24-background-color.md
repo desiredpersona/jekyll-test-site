@@ -2,7 +2,7 @@
 layout: post
 title: Change the background color of posts & pages easily.
 date:   2018-11-24 11:55:10 +0100
-author: Desired Persona
+author: desired persona
 class: 
   - bg-light-gray
 categories:

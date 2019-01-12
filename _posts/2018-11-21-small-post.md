@@ -2,7 +2,7 @@
 layout: post
 title: Post read-time test for `less than 1 minute`
 date: 2018-11-21 12:05:50 +0100
-author: Desired Persona
+author: desired persona
 author_bio: false
 share_icons: false
 category_tag_list: false
